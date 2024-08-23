@@ -30,10 +30,13 @@ twitter_username: phoenixfc1
 github_username: cathyfu1215
 
 # Build settings
-
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
