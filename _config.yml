@@ -23,7 +23,7 @@ email: phoenixfucong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 This is Cathy's personal website, which contains her blogs and all her projects.
-
+She is fluent with JavaScript, Python and Java. She is a passionate and creative developper and problem solver!
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
