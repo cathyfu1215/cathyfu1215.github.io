@@ -33,6 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+nav:
+  - about.markdown
+  - cv.markdown
+  - projects.markdown
+  - learning.markdown
+  - stories.markdown
 
 
 
