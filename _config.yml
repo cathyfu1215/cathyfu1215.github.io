@@ -20,16 +20,14 @@
 
 title: Cathy's Odyssey
 email: phoenixfucong@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-
-This is Cathy's personal website, which contains her blogs and all her projects.
-She is fluent with JavaScript, Python and Java. She is a passionate and creative developper and problem solver!
-
+description: > # this means to ignore newlines until "baseurl:"
+  This is Cathy's personal website, which contains her blogs and all her projects.
+  She is fluent with JavaScript, Python and Java. She is a passionate and creative developer and problem solver!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phoenixfc1
-github_username:  cathyfu1215
+github_username: cathyfu1215
 
 # Build settings
 theme: minima
@@ -47,11 +45,4 @@ plugins:
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
