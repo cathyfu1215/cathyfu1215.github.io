@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Learning
+title: "Learning"
 permalink: /learning/
 ---
+
+# Learning
+
 Here are the classes I have taken:
 
 <ul>
   {% for class in site.data.classes.classes %}
     <li>
       <h2>{{ class.title }}</h2>
+      <p><strong>Institution:</strong> {{ class.institution }}</p>
       <p>{{ class.description }}</p>
       <p><strong>Mastery Level:</strong> {{ class.mastery_level }}</p>
       <ul>
