@@ -1,0 +1,19 @@
+# _data/classes.yml
+classes:
+  - title: "Introduction to Computer Science"
+    description: "An introductory course on computer science principles and programming."
+    mastery_level: "Intermediate"
+    links:
+      - url: "https://example.com/course-link"
+        text: "Course Link"
+      - url: "https://example.com/resource-link"
+        text: "Resource Link"
+  - title: "Advanced Machine Learning"
+    description: "A deep dive into machine learning algorithms and their applications."
+    mastery_level: "Advanced"
+    links:
+      - url: "https://example.com/course-link"
+        text: "Course Link"
+      - url: "https://example.com/resource-link"
+        text: "Resource Link"
+
