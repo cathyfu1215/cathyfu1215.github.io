@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cathy's Odyssey
-email: phoenixfucong@gmail.com
+email: fu.con@northeastern.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is Cathy's personal website, which contains her blogs and all her projects.
   She is fluent with JavaScript, Python and Java. She is a passionate and creative developer and problem solver!
