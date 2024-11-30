@@ -22,7 +22,7 @@ title: Cathy's Odyssey
 email: phoenixfucong@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Cathy's personal website, which contains her blogs and all her projects.
-  She is fluent with JavaScript, TypeScript, Python and Java. She is a creative developer and problem solver!
+  She is a creative developer and problem solver!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cathyfu1215.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
