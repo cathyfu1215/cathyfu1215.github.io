@@ -10,7 +10,7 @@ permalink: /cv/
 ### Master of Science in Computer Science
 **Northeastern University**,  Vancouver, BC, Canada | *Sept.2023 - Dec.2024*
 
-- **Relevant Courses:** Algorithms, Foundation of Software Engineering, Cloud Computing, Web/Mobile Development, Databases 
+- **Relevant Courses:** Algorithms, Foundation of Software Engineering, Cloud Computing, Web/Mobile Development, Databases, Research Capstone
 - **GPA:** 4.0/4.0
 
 ###  Master of Science in Money and Finance
@@ -20,14 +20,14 @@ permalink: /cv/
 - **Thesis:** Understanding financial literacy scores among 15-year-olds, evidence from
 Australia and U.S.A.
 
-- **Relevant Courses:** Capital Markets and Asset Pricing, Corporate Finance and Valuation, Risk Management and Insurance, Household Finance, Personal Finance
+- **Relevant Courses:** Capital Markets and Asset Pricing, Corporate Finance and Valuation, Risk Management and Insurance, Household Finance, Personal Finance, Micro/Macro economics, Econometrics, Research Seminars
 
 ###  Bachelor of Science in Business Administration
 **The Ohio State University**, Columbus, OH, United States 
 
 - **Relevant Courses:** Financial Accounting, Tax Accounting, Business Finance, Information System
 - **GPA:** 3.8/4.0
-- **Awards:** Ernst & Young Minority Student Scholarship, magna cum laude, dean's list, Beta Gamma Sigma
+- **Awards and Activities:** **Ernst & Young Minority Student Scholarship**, Graduated magna cum laude, Dean's List, Beta Gamma Sigma member, TA of **Financial Accounting** for 2 semesters
 
 ## Research Experience
 ### Research Capstone & Internship
@@ -45,12 +45,22 @@ Australia and U.S.A.
 
 ## Hackathon Experience
 **CyberSci Hackathon**, Vancouver, BC, Canada | *Nov.2024*
-- Collaborated in a team of 5 to represent Northeastern University in a cybersecurity hackathon, ranking 5th in the Vancouver region and 25th across Canada
+- Collaborated in a team of 5 to represent Northeastern University in a cybersecurity hackathon, ranking **5th** in the Vancouver region and **25th** across Canada
 - Acquired knowledge in computer systems, networking, and large language models, applying these skills to solve complex cybersecurity challenges
 
 **YVR Smart Airport Hackathon**, Richmond, BC, Canada | *Apr.2024*
-- Achieved 2nd place among 130+ participants by developing a specialized model using Python and OpenCV for detecting airport safety concerns, demonstrating strong problem-solving skills
+- Achieved **2nd place** among 130+ participants by developing a specialized model using Python and OpenCV for detecting airport safety concerns, demonstrating strong problem-solving skills
 - Collaborated in an agile team of 8 to leverage Yolo8 model expertise, enhancing the accuracy of safety concern detection 
+
+**Google Vertex AI Agent Builder Hackathon**, Vancouver, BC, Canada | *June 2024*
+- Participated in the Google AI Hackathon, collaborating with a team to design and implement the Wellness Bot using Google Vertex AI.
+- The chatbot provided mental health support through mindfulness exercises and stress management techniques, effectively addressing mental health challenges and demonstrating strong problem-solving skills.
+- Product: [Rainbow Days: Find Your Colorful Wellness](https://devpost.com/software/wellness-bot-n2ixcz)
+
+**Microsoft Developers AI Learning Hackathon**, Vancouver, BC, Canada | *May 2024*
+- Cultivated familiarity with the Azure OpenAI Platform and Azure Cosmos DB; completed 9 lessons on the Microsoft Learn platform.
+- Acquired knowledge of key concepts including Large Language Models (LLMs), prompt engineering, and Retrieval-Augmented Generation (RAG).
+- Gained practical experience with the GPT-3.5-Turbo model.
 
 
 ## Skills
